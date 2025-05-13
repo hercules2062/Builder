@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * 
+ */
+module GeradorBoleto {
+	requires itextpdf;
+}
